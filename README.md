@@ -5,6 +5,12 @@
   I am a versatile developer who thrives on building creative, robust software systems. I don't just build features; I focus on the underlying architecture that makes technology reliable, scalable, and secure. My main programming languages are Java and Python.
 </p>
 
+#### no one ask but here's the answer
+
+- i'm currently working on SnapFx VGU, my CS50W capstone project, and all my uni's stuff
+- Yes i'm looking for an internship 
+- i'm a Christian 
+
 <!--
 **JackM0208/JackM0208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
